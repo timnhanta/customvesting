@@ -1,0 +1,12 @@
+syntax = "proto3";
+package customvesting.myvesting;
+
+import "gogoproto/gogo.proto";
+import "customvesting/myvesting/params.proto";
+
+option go_package = "customvesting/x/myvesting/types";
+
+// GenesisState defines the myvesting module's genesis state.
+message GenesisState {
+  Params params = 1 [(gogoproto.nullable) = false];
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+package customvesting.myvesting;
+
+option go_package = "customvesting/x/myvesting/types";
+
+// Msg defines the Msg service.
+service Msg {}
