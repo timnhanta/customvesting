@@ -3,8 +3,8 @@ package keeper
 import (
 	"context"
 
-	"customvesting/x/myvesting/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
+	"github.com/timnhanta/customvesting/x/myvesting/types"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 )

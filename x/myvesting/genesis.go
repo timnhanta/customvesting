@@ -1,9 +1,9 @@
 package myvesting
 
 import (
-	"customvesting/x/myvesting/keeper"
-	"customvesting/x/myvesting/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
+	"github.com/timnhanta/customvesting/x/myvesting/keeper"
+	"github.com/timnhanta/customvesting/x/myvesting/types"
 )
 
 // InitGenesis initializes the module's state from a provided genesis state.

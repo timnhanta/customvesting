@@ -8,7 +8,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/client"
 	// "github.com/cosmos/cosmos-sdk/client/flags"
-	"customvesting/x/myvesting/types"
+	"github.com/timnhanta/customvesting/x/myvesting/types"
 )
 
 var (

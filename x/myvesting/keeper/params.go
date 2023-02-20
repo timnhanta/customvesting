@@ -1,8 +1,8 @@
 package keeper
 
 import (
-	"customvesting/x/myvesting/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
+	"github.com/timnhanta/customvesting/x/myvesting/types"
 )
 
 // GetParams get all parameters as types.Params

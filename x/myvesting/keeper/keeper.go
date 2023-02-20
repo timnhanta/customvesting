@@ -9,7 +9,7 @@ import (
 	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
 	"github.com/tendermint/tendermint/libs/log"
 
-	"customvesting/x/myvesting/types"
+	"github.com/timnhanta/customvesting/x/myvesting/types"
 )
 
 type (

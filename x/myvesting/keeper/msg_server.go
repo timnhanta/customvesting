@@ -1,7 +1,7 @@
 package keeper
 
 import (
-	"customvesting/x/myvesting/types"
+	"github.com/timnhanta/customvesting/x/myvesting/types"
 )
 
 type msgServer struct {
