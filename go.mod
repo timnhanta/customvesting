@@ -1,4 +1,4 @@
-module customvesting
+module github.com/timnhanta/customvesting
 
 go 1.19
 
